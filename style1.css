@@ -1,0 +1,9 @@
+body {
+	background-color: rgb(3, 146, 74);
+}
+
+h1 {
+	text-align: left;
+	color: rgb(255, 255, 255);
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
