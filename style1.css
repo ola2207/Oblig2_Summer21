@@ -5,5 +5,10 @@ body {
 h1 {
 	text-align: left;
 	color: rgb(255, 255, 255);
-	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+img {
+	max-height: 50%;
+	max-width: 50%;
 }
