@@ -5,5 +5,10 @@ body {
 h1 {
 	text-align: left;
 	color: rgb(0, 0, 0);
-	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+	max-width: 50%;
+	max-height: 50%;
 }
