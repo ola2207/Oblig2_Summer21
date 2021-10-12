@@ -1,9 +1,35 @@
 body {
-	background-color: orange;
+	background-color: rgb(241, 227, 145);
 }
 
 h1 {
-	text-align: left;
+	text-align: center;
 	color: rgb(56, 56, 56);
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font: Tahoma;
+}
+img {
+	max-height: 70%;
+	max-width: 70%;
+	border-radius: 10px;
+}
+
+img:hover{
+	max-height: 72%;
+	max-width: 72%;
+}
+
+p {
+	max-height: 60%;
+	max-width: 60%;
+	color: rgb(56, 56, 56);
+}
+
+.row1 {
+	float: left;
+	width: 45%;
+}
+
+.row2 {
+	float: right;
+	width: 45%;
 }
