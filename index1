@@ -1,0 +1,38 @@
+@ -0,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Summer '21</title>
+		<link href="../style1.css" rel="stylesheet" />
+	</head>
+	<body>
+		<h1>Summer '21</h1>
+		<img src="pictures/IMG_20210724_001116.jpg" alt="Strand1" />
+		<p>Photo: Ola ...</p>
+		<img src="pictures/IMG_20210724_000644.jpg" alt="Strand2" />
+		<p>Photo: Ola ...</p>
+		<img src="pictures/IMG_0143.jpg" alt="Maria" />
+		<p>
+			Photo: Elias This picture shows Maria at Kadettangen. They had just finally
+			gotten back from a year in England, and could finally hang out at our usual
+			hangout spots again. This picture also showes that they had not at all lost
+			their meme-ridden personality.
+		</p>
+		<img src="pictures/IMG_0195.jpeg" alt="Eng" />
+		<p>
+			Photo: Elias This picture was taken in a field near Eiksmarka. It was at the
+			start of Elias and their friends' first ever move. But one of the
+			flatmembers' family was on vacation and could not drive her things to the
+			flat, and this picture is documenting the moving process which consisted of
+			walking and public transport. The people photographed are Mathilde and
+			Ingerid.
+		</p>
+		<img src="pictures/IMG_0399.jpeg" alt="Dobbel regnbue" />
+		<p>
+			Photo: Elias At the very end of summer, the day school started. There was a
+			double rainbow. Maybe symbolising that the school year would go okay.
+		</p>
+		<img src="pictures/krabbesholm-gucci.jpeg" alt="Krabbesholm" />
+		<p>Photo: Theo ...</p>
+	</body>
+</html>
