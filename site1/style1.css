@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(3, 146, 74);
+	background-color: rgb(58, 56, 56);
 }
 
 h1 {
@@ -11,14 +11,14 @@ h1 {
 img {
 	max-height: 200%;
 	max-width: 200%;
-	width: 254px;
-	height: 600px;
+	width: 318px;
+	height: 800px;
 	object-fit: cover;
-	object-position: 100% 0;
 }
 
 .columns {
 	column-count: 6;
 	column-gap: 0px;
 	column-width: 0px;
+  
 }
