@@ -17,5 +17,19 @@ ul>li{
     margin-top: 10px;
 }
 img{
-    width: 500px;
+    width: 100%;
+    z-index: 10;
+    
+}
+li:hover{
+    background-color: blueviolet;
+}
+#div_tekst{
+    z-index: 20;
+    background-color: dimgrey;
+    color: aqua;
+    position: absolute;
+    top: 100px;
+    width: 30%;
+    text-align: center;
 }
