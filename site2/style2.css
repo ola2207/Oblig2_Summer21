@@ -8,15 +8,11 @@ h1 {
 	font: Tahoma;
 }
 img {
-	max-height: 70%;
-	max-width: 70%;
+	max-height: 80%;
+	max-width: 80%;
 	border-radius: 10px;
 }
 
-img:hover{
-	max-height: 72%;
-	max-width: 72%;
-}
 
 p {
 	max-height: 60%;
@@ -24,12 +20,30 @@ p {
 	color: rgb(56, 56, 56);
 }
 
+.an {
+    display: none;
+}
+    
+a:hover + div {
+    display: block;
+}
+
+a{
+	background-color: palegoldenrod;
+}
+
 .row1 {
 	float: left;
-	width: 45%;
+	width: 50%;
 }
 
 .row2 {
 	float: right;
-	width: 45%;
+	width: 50%;
+}
+
+.mariatekst{
+	float: right;
+	width: 50%;
+	
 }
