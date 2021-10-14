@@ -30,8 +30,7 @@ img{
     border-radius: 25px;
 }
 li:hover{
-    background-color: aqua;
-    color: dimgrey;
+    color: white;
 }
 #div_tekst{
     border-radius: 25px;
@@ -43,4 +42,28 @@ li:hover{
     left: 20px;
     width: 20%;
     text-align: center;
+}
+
+#nav1:hover{
+    background-image: url(../pictures/nav1.png);
+}
+
+#nav2:hover{
+    background-image: url(../pictures/nav2.png);
+}
+
+#nav3:hover{
+    background-image: url(../pictures/nav3.png);
+}
+
+#nav4:hover{
+    background-image: url(../pictures/nav4.png);
+}
+
+#nav5:hover{
+    background-image: url(../pictures/nav5.png);
+}
+
+#nav6:hover{
+    background-image: url(../pictures/nav6.png);
 }
