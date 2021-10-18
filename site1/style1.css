@@ -9,8 +9,8 @@ h1 {
 }
 
 img {
-	max-height: 200%;
-	max-width: 200%;
+	max-height: 640px;
+	max-width: 251px;
 	width: 318px;
 	height: 800px;
 	object-fit: cover;
@@ -20,5 +20,4 @@ img {
 	column-count: 6;
 	column-gap: 0px;
 	column-width: 0px;
-  
 }
