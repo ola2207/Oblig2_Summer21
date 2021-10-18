@@ -67,3 +67,77 @@ li:hover{
 #nav6:hover{
     background-image: url(../pictures/nav6.png);
 }
+
+@media screen and (max-width: 600px){
+    
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+    background-color:deepskyblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-flow: wrap;
+    z-index: 500;
+    border-radius: 5px;
+}
+ul>li{
+    display: flex;
+    background-color: dimgrey;
+    color: aqua;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-family: helvetica;
+    font-size: 10px;
+    font-weight: 100;
+}
+img{
+    width: 100%;
+    z-index: 10;
+    border-radius: 25px;
+}
+li:hover{
+    color: white;
+}
+#div_tekst{
+    border-radius: 25px;
+    z-index: 20;
+    background-color: dimgrey;
+    color: aqua;
+    position: fixed;
+    bottom: 30px;
+    left: 20px;
+    width: 20%;
+    text-align: center;
+}
+
+#nav1:hover{
+    background-image: url(../pictures/nav1.png);
+}
+
+#nav2:hover{
+    background-image: url(../pictures/nav2.png);
+}
+
+#nav3:hover{
+    background-image: url(../pictures/nav3.png);
+}
+
+#nav4:hover{
+    background-image: url(../pictures/nav4.png);
+}
+
+#nav5:hover{
+    background-image: url(../pictures/nav5.png);
+}
+
+#nav6:hover{
+    background-image: url(../pictures/nav6.png);
+} 
+    
+}
