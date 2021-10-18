@@ -3,14 +3,15 @@ body {
 }
 
 h1 {
-	text-align: left;
+	text-align: center;
 	color: rgb(255, 255, 255);
 	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 img {
-	max-height: 640px;
-	max-width: 251px;
+    display: flex;
+	max-height: 200%;
+	max-width: 200%;
 	width: 318px;
 	height: 800px;
 	object-fit: cover;
@@ -21,3 +22,19 @@ img {
 	column-gap: 0px;
 	column-width: 0px;
 }
+article{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+
+
+.an {
+    display: none;
+}
+    
+a:hover + div {
+    display: block;
+}
+
