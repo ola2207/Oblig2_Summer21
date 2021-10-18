@@ -9,7 +9,7 @@ h1 {
 }
 
 img {
-    display: flex;
+	display: flex;
 	max-height: 200%;
 	max-width: 200%;
 	width: 318px;
@@ -20,13 +20,17 @@ img {
 .columns {
 	column-count: 6;
 	column-gap: 0px;
-	column-width: 0px;
-  
 }
-article{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+article {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
 }
 
+.an {
+	display: none;
+}
 
+a:hover + div {
+	display: block;
+}
