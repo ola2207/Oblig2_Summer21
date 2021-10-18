@@ -34,9 +34,6 @@ p {
 	color: rgb(170, 170, 170);
 }
 
-.individ_Bilder {
-	max-height: 100%;
-	max-width: 100%;
-	width: 30%;
-	height: 30%;
+.individBilder {
+	width: 100%;
 }
